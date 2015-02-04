@@ -1,0 +1,26 @@
+{
+  "name": "jqueryGruntDemoProject",
+  "title": "a demo project for grunt",
+  "description": "This is a trial of the grunt jquery plugin",
+  "version": "1.0.0",
+  "homepage": "https://github.com/mosongo/jqueryDemo",
+  "author": {
+    "name": "Tomson M. Ngassa",
+    "email": "Tomson.Ngassa@feisystems.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mosongo/jqueryDemo.git"
+  },
+  "bugs": "https://github.com/mosongo/jqueryDemo/issues",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mosongo/jqueryDemo/blob/master/LICENSE-MIT"
+    }
+  ],
+  "dependencies": {
+    "jquery": "*"
+  },
+  "keywords": []
+}
